@@ -40,3 +40,10 @@ We provide all object and behavior synonym files in 'sym_graphs' folder which ca
 # Evaluation
 To evaluate your own model, we provide the codes of GPT-4-assisted evaluation procedure in [GPT-4-assisted_evaluation.ipynb](https://github.com/si0wang/Mementos/blob/main/GPT-4-assisted_evaluation.ipynb).
 First you need extract object and behavior keyword list using GPT-4, then compute Recall, Precision, and F1 of objects and behaviors.
+
+# 📝 Citation
+
+If you find our work useful, please consider citing:
+```
+
+```
