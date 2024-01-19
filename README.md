@@ -1,4 +1,34 @@
-# Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences
+<p align="center">
+
+  <h1 align="center">Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences</h1>
+  <p align="center">
+    <a><strong>Xiyao Wang</strong></a>
+    ·
+    <a><strong>Yuhang Zhou*</strong></a>
+    ·
+    <a><strong>Xiaoyu Liu*</strong></a>
+    ·
+    <a><strong>Hingjin Lu</strong></a>
+    ·
+    <a><strong>Yuancheng Xu</strong></a>
+    ·
+    <a><strong>Feihong He</strong></a>
+    ·
+    <a><strong>Jaehong Yoon</strong></a>
+    ·
+    <a><strong>Taixi Lu</strong></a>
+    ·
+    <a><strong>Gedas Bertasius</strong></a>
+    ·
+    <a><strong>Mohit Bansal</strong></a>
+    ·
+    <a><strong>Huaxiu Yao*</strong></a>
+    ·
+    <a><strong>Furong Huang*</strong></a>
+  </p>
+
+</p>
+
 
 This is the dataset and code for paper 'Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences'
 
